@@ -2,19 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B+I'm+Kanushka+Witharamage;Aspiring+QA+Engineer;Manual+%26+Automation+Testing" alt="Typing SVG" />
 </h1>
 
----
+
 
 ## 📋 **About Me**
 
 > Undergraduate | Enthusiast | Test Automation  
-> Self-taught **QA Engineer** with hands-on experience in **UI, API, performance, database, and security testing**. Skilled in building practices to help teams deliver software faster while maintaining reliability and quality. Actively contributing to the QA community by sharing knowledge and insights!
+> **Aspiring QA Engineer** with hands-on experience in **UI, API, performance, database, and security testing**. Skilled in building practices to help teams deliver software faster while maintaining reliability and quality. Actively contributing to the QA community by sharing knowledge and insights!
 
 <p align="center">
   📍 Sri Lanka | 🎓 BSc (Hons) Industrial Information Technology (2022-2026)  
   💼 Final Year Student 
 </p>
 
----
+
 
 ## 🔗 **Connect With Me**
 
