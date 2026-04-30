@@ -7,11 +7,11 @@
 ## 📋 **About Me**
 
 > Undergraduate | Enthusiast | Test Automation  
-> Self-taught **QA Engineer** with hands-on experience in **UI, API, performance, database, and security testing**. Skilled in building **end-to-end test pipelines**, integrating **CI/CD**, applying **Agile and DevOps** practices to help teams deliver software faster while maintaining reliability and quality. Actively contributing to the QA community by sharing knowledge and insights!
+> Self-taught **QA Engineer** with hands-on experience in **UI, API, performance, database, and security testing**. Skilled in building practices to help teams deliver software faster while maintaining reliability and quality. Actively contributing to the QA community by sharing knowledge and insights!
 
 <p align="center">
   📍 Sri Lanka | 🎓 BSc (Hons) Industrial Information Technology (2022-2026)  
-  💼 Final Year Student | 🏆 197 GitHub Contributions
+  💼 Final Year Student 
 </p>
 
 ---
@@ -40,7 +40,6 @@
 - 🎯 **Aspiring QA Engineer** passionate about software quality and reliability
 - 📊 **5+ QA Projects** | **100+ Test Cases** | **70+ Hands-on QA Hours**
 - 🤖 Expertise in **Manual Testing** & **Test Automation** (Selenium, TestNG)
-- 🔄 **CI/CD Integration** | **Agile & DevOps** practices
 - 🛠️ Building **end-to-end test pipelines** for software delivery excellence
 - 🌱 Continuously learning and improving testing methodologies
 
@@ -145,17 +144,13 @@
 
 ## 📊 **GitHub Statistics**
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kanushka-21&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00FF88&icon_color=FF006E&text_color=ffffff&count_private=true" width="500"/>
-</p>
+
 
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanushka-21&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00FF88&text_color=ffffff" width="400"/>
 </p>
 
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kanushka-21&theme=dark&background=0a0a0a&stroke=00ff88&ring=00ff88&fire=ff006e&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=00ff88&dates=8b949e" width="500"/>
-</p>
+
 
 ---
 
@@ -218,20 +213,13 @@
 
 ---
 
-## 💡 **What I'm Currently Doing**
 
-- 🧪 **Improving QA Skills:** Advanced test automation frameworks and performance testing
-- 📚 **Learning:** CI/CD pipelines, Security testing, and DevOps practices
-- 🤝 **Contributing:** Sharing QA knowledge and insights with the community
-- 🚀 **Building:** End-to-end test automation solutions for real-world applications
-
----
 
 ## 📧 **Get In Touch**
 
 <p align="center">
   <strong>Let's connect and collaborate on QA testing projects!</strong><br><br>
-  📧 Email: <a href="mailto:kanushka.qa@example.com">kanushka.qa@example.com</a><br>
+  📧 Email: <a href="mailto:kanushkagayan21@gmail.com">kanushkagayan21@gmail.com</a><br>
   💼 LinkedIn: <a href="https://www.linkedin.com/in/kanushka-witharamage-5995362b8">Kanushka Witharamage</a><br>
   🐙 GitHub: <a href="https://github.com/Kanushka-21">Kanushka-21</a><br>
   🌐 Portfolio: <a href="https://kanushka-21.github.io/portfolio-updated/">Live Portfolio</a>
@@ -239,9 +227,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</p>
 
 <p align="center">
   <strong>⚡ "Quality is not an act, it is a habit." – Aristotle</strong><br>
