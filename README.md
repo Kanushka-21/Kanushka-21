@@ -160,3 +160,94 @@
 ---
 
 ## 🎯 **My QA Testing Process**
+
+
+
+**Quality Assurance Methodology:**
+- Analyze requirements & acceptance criteria
+- Design comprehensive test cases & test plans
+- Execute tests manually & automated frameworks
+- Document issues & create detailed reports
+- Verify fixes & conduct regression testing
+- Deliver quality software to production
+
+---
+
+## 📈 **Key Statistics**
+
+<p align="center">
+  <table>
+    <tr align="center">
+      <td>
+        <strong>5+</strong><br>QA Projects
+      </td>
+      <td>
+        <strong>100+</strong><br>Test Cases Created
+      </td>
+      <td>
+        <strong>70+</strong><br>Hands-on QA Hours
+      </td>
+      <td>
+        <strong>7</strong><br>GitHub Repositories
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 📌 **Featured LinkedIn Posts**
+
+- 🎬 **[GemNet Working Demonstration](https://www.linkedin.com/posts/kanushka-witharamage-5995362b8_gemnet-digitalmarketplace-machinelearning-activity-7391702728059539456-q9Nr)**  
+  Showcasing GemNet's digital marketplace with machine learning integration and real-world demonstration.
+
+- 📱 **[AR MENU – Augmented Reality Dining Experience](https://www.linkedin.com/posts/kanushka-witharamage-5995362b8_armenu-seebeforeyoueat-uwuexpo2025-activity-7354755479127900163-Kr4)**  
+  Proudly developed for UWUExpo 2025 at Uva Wellassa University. An innovative mobile app using AR technology.
+
+- 🛒 **[E-Commerce Platform – StyleHub](https://www.linkedin.com/posts/kanushka-witharamage-5995362b8_ecommerceplatform-stylehub-jsp-activity-7277299142350012416-OdXS)**  
+  A mini-project developed as part of the Rapid Application Development course with full-stack testing.
+
+---
+
+## 🎓 **Education**
+
+**BSc (Hons) Industrial Information Technology**
+- **University:** Sri Lanka
+- **Duration:** 2022 – 2026 (Final Year)
+- **Relevant Coursework:** Software Quality Assurance, Test Automation, Web Application Development, Database Management Systems
+
+---
+
+## 💡 **What I'm Currently Doing**
+
+- 🧪 **Improving QA Skills:** Advanced test automation frameworks and performance testing
+- 📚 **Learning:** CI/CD pipelines, Security testing, and DevOps practices
+- 🤝 **Contributing:** Sharing QA knowledge and insights with the community
+- 🚀 **Building:** End-to-end test automation solutions for real-world applications
+
+---
+
+## 📧 **Get In Touch**
+
+<p align="center">
+  <strong>Let's connect and collaborate on QA testing projects!</strong><br><br>
+  📧 Email: <a href="mailto:kanushka.qa@example.com">kanushka.qa@example.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/kanushka-witharamage-5995362b8">Kanushka Witharamage</a><br>
+  🐙 GitHub: <a href="https://github.com/Kanushka-21">Kanushka-21</a><br>
+  🌐 Portfolio: <a href="https://kanushka-21.github.io/portfolio-updated/">Live Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">
+  <strong>⚡ "Quality is not an act, it is a habit." – Aristotle</strong><br>
+  <sub>🔗 Check out my <a href="https://kanushka-21.github.io/portfolio-updated/">Portfolio</a> for detailed project information!</sub>
+</p>
+
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Kanushka-21&color=00FF88&style=flat-square">
+</p>
