@@ -25,7 +25,7 @@
   <a href="https://github.com/Kanushka-21" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://kanushka-21.github.io/portfolio-updated/" target="_blank">
+  <a href="https://kanushka-21.github.io/portfolio/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=globe&logoColor=black">
   </a>
   <a href="mailto:kanushka.qa@example.com">
