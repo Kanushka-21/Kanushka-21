@@ -16,7 +16,7 @@
 
 
 
-## 🔗 **Connect With Me**
+## 🔗 **To Connect**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanushka-witharamage-5995362b8" target="_blank">
