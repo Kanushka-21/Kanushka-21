@@ -38,7 +38,7 @@
 ## 🎯 **Quick Snapshot**
 
 - 🎓 Final-year **Information Technology** undergraduate
-- 🗂️ **7+ Full Projects** | **100+ Test Cases** | **4+ AI/ML Projects**
+- 🗂️ **7+ Full Projects** | **100+ Test Cases** | **2+ AI/ML Projects**
 - 🧪 Practical exposure in **Manual & Automation Testing** (Selenium, TestNG)
 - 🌐 Built full-stack projects using **React.js, Spring Boot, PHP & MySQL**
 - 🤖 Explored **AI/ML** through research — YOLOv8, PyTorch, OpenCV
@@ -187,7 +187,7 @@
     <tr align="center">
       <td><strong>7+</strong><br>Full Projects</td>
       <td><strong>100+</strong><br>Test Cases</td>
-      <td><strong>4+</strong><br>AI/ML Projects</td>
+      <td><strong>2+</strong><br>AI/ML Projects</td>
       <td><strong>7</strong><br>GitHub Repos</td>
     </tr>
   </table>
