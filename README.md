@@ -222,7 +222,7 @@
   📧 Email: <a href="mailto:kanushkagayan21@gmail.com">kanushkagayan21@gmail.com</a><br>
   💼 LinkedIn: <a href="https://www.linkedin.com/in/kanushka-witharamage-5995362b8">Kanushka Witharamage</a><br>
   🐙 GitHub: <a href="https://github.com/Kanushka-21">Kanushka-21</a><br>
-  🌐 Portfolio: <a href="https://kanushka-21.github.io/portfolio-updated/">Live Portfolio</a>
+  🌐 Portfolio: <a href="https://kanushka-21.github.io/portfolio/">Live Portfolio</a>
 </p>
 
 ---
