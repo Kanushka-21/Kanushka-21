@@ -231,7 +231,7 @@
 
 <p align="center">
   <strong>⚡ "Learning never exhausts the mind." – Leonardo da Vinci</strong><br>
-  <sub>🔗 Check out my <a href="https://kanushka-21.github.io/portfolio-updated/">Portfolio</a> for detailed project information!</sub>
+  <sub>🔗 Check out my <a href="https://kanushka-21.github.io/portfolio_General">Portfolio</a> for detailed project information!</sub>
 </p>
 
 <p align="center">
