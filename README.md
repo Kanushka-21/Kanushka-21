@@ -7,7 +7,7 @@
 ## 📋 **About Me**
 
 > Undergraduate | Tech Enthusiast | Open to Opportunities  
-> Final-year IT student with **practical exposure** in Full-Stack Development, QA Testing & AI/ML through university projects. Passionate about building real-world solutions and growing through hands-on experience.
+> Final-year IT student with **practical exposure** in Full-Stack Development, QA Testing & AI/ML university projects. Passionate about building real-world solutions and growing through hands-on experience.
 
 <p align="center">
   📍 Sri Lanka | 🎓 BSc (Hons) Industrial Information Technology (2022–2026)<br>
