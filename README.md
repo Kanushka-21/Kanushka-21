@@ -22,9 +22,7 @@
   <a href="https://www.linkedin.com/in/kanushka-witharamage-5995362b8" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/Kanushka-21" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+ 
   <a href="https://kanushka-21.github.io/portfolio-updated/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=globe&logoColor=black">
   </a>
@@ -213,7 +211,7 @@
 **BSc (Hons) Industrial Information Technology**
 - **University:** Sri Lanka
 - **Duration:** 2022 – 2026 (Final Year)
-- **Relevant Coursework:** Software Quality Assurance, Test Automation, Web Application Development, Database Management Systems, AI/ML
+
 
 ---
 
