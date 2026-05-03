@@ -66,6 +66,7 @@ I'm a final-year undergraduate specializing in Industrial Information Technology
 
 **Tech Stack:** Python | YOLOv8 | PyTorch | OpenCV  
 **Repository:** https://github.com/Kanushka-21/Tomato_Projet_five_class--Deplyment-Model--Tomato-Research--
+**Demonstration:** https://www.linkedin.com/posts/kanushka-witharamage-5995362b8_artificialintelligence-machinelearning-deeplearning-ugcPost-7429255430901571584-q4u0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExA2sUB6JeNopI-PZoY1mKWNPBQlE9UqsQ
 
 ---
 
@@ -75,6 +76,7 @@ I'm a final-year undergraduate specializing in Industrial Information Technology
 
 **Tech Stack:** React.js | Spring Boot | MongoDB | ML Integration  
 **Repository:** https://github.com/Kanushka-21/FrontEnd-BackEnd-Phase-1
+**Demonstration:** https://www.linkedin.com/posts/kanushka-witharamage-5995362b8_gemnet-digitalmarketplace-machinelearning-ugcPost-7391702165125488640-Q_An?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExA2sUB6JeNopI-PZoY1mKWNPBQlE9UqsQ
 
 ---
 
@@ -83,7 +85,7 @@ I'm a final-year undergraduate specializing in Industrial Information Technology
 **Description:** AR mobile app for visualizing 3D food models and nutrition details in real-time. Developed for UWUExpo 2025 at Uva Wellassa University. Features gesture controls and an interactive dining experience.  
 
 **Tech Stack:** Unity | AR Technology | 3D Graphics  
-**Demostration:** https://www.linkedin.com/posts/kanushka-witharamage-5995362b8_armenu-seebeforeyoueat-uwuexpo2025-ugcPost-7354755111551655936-hKqp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExA2sUB6JeNopI-PZoY1mKWNPBQlE9UqsQ
+**Demonstration:** https://www.linkedin.com/posts/kanushka-witharamage-5995362b8_armenu-seebeforeyoueat-uwuexpo2025-ugcPost-7354755111551655936-hKqp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExA2sUB6JeNopI-PZoY1mKWNPBQlE9UqsQ
 
 ---
 
